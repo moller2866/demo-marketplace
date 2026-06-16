@@ -1,0 +1,15 @@
+{
+    "name": "hello-world",
+    "description": "A simple plugin that says hello",
+    "version": "1.0.0",
+    "author": {
+        "name": "Kasper",
+        "email": "example@example.com"
+    },
+    "skills": [
+        "./skills/hello-world"
+    ],
+    "agents": [
+        "./agents"
+    ]
+ }
