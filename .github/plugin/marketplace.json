@@ -9,7 +9,7 @@
         "version": "1.0.0",
         "pluginRoot": "./plugins"
     },
-    "plugin": [
+    "plugins": [
         {
             "name": "hello-world",
             "source": "hello-world"
